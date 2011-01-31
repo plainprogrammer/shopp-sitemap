@@ -1,11 +1,16 @@
 <?php
 /*
 Plugin Name: Shopp Sitemap
-Plugin URI: http://shopptools.com
 Description: Shopp E-Commerce & Google XML Sitemap Integration
-Version: 0.9
-Author: Palms Development
-Author URI: http://palmsdevelopment.com
+Author: Plain Programs LLC (James Thompson)
+Author URI: http://plainprograms.com
+
+This plugin is based on work originally released by Palms Development. It has
+been modified to work with newer versions of Shopp. It is being released under
+an MIT license to, hopefully, remain compatible with the spirit of the original
+author's intent in releasing the plugin.
+
+Please refer to LICENSE file for terms of use.
 */
 
 if ( ! defined( 'ABSPATH' ) )
